@@ -12,6 +12,9 @@
 #
 # Doesn't work on Nginx VPS — those need server-level config.
 
+# ----- Custom error page -----
+ErrorDocument 404 /404.html
+
 # ----- Cache duration -----
 <IfModule mod_expires.c>
   ExpiresActive On
