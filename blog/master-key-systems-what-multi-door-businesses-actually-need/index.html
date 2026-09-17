@@ -19,6 +19,70 @@
 <link rel="icon" type="image/png" href="/assets/brand/favicon-32.png?v=20260906b" sizes="32x32">
 <link rel="apple-touch-icon" href="/assets/brand/apple-touch-icon.png?v=20260906b">
 <link rel="stylesheet" href="/styles.css?v=20260906b">
+<style>
+/* Scoped to this post only - table styling for the "Simple Way to Think
+   About It" comparison table. Not added to the shared stylesheet so it
+   never affects service/service-area pages that also use .prose. */
+.prose table.blog-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+  font-size: .95rem;
+}
+.prose table.blog-table th,
+.prose table.blog-table td {
+  padding: .85rem 1.1rem;
+  text-align: left;
+  vertical-align: top;
+}
+.prose table.blog-table thead th {
+  background: var(--gold-wash);
+  color: var(--gold-dark);
+  font-weight: 700;
+  font-size: .8rem;
+  letter-spacing: .03em;
+  text-transform: uppercase;
+  border-bottom: 1px solid var(--line-2);
+}
+.prose table.blog-table tbody tr:not(:last-child) td {
+  border-bottom: 1px solid var(--line);
+}
+.prose table.blog-table tbody tr:nth-child(even) {
+  background: var(--paper);
+}
+.prose table.blog-table td:first-child {
+  color: var(--ink);
+  font-weight: 600;
+}
+.prose table.blog-table td + td {
+  color: var(--ink-2);
+  border-left: 1px solid var(--line);
+}
+@media (max-width: 640px) {
+  .prose table.blog-table, .prose table.blog-table thead, .prose table.blog-table tbody, .prose table.blog-table th, .prose table.blog-table td, .prose table.blog-table tr {
+    display: block;
+  }
+  .prose table.blog-table thead { display: none; }
+  .prose table.blog-table tbody tr {
+    border-bottom: 1px solid var(--line);
+    padding: .85rem 1.1rem;
+  }
+  .prose table.blog-table td {
+    padding: .25rem 0;
+    border: none !important;
+  }
+  .prose table.blog-table td + td::before {
+    content: "→ ";
+    color: var(--gold-deep);
+    font-weight: 700;
+  }
+}
+</style>
 <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://deluxelocksmiths.com/#website","url":"https://deluxelocksmiths.com/","name":"Deluxe Locksmith","inLanguage":"en-US","publisher":{"@id":"https://deluxelocksmiths.com/#business"}},{"@type":"Locksmith","@id":"https://deluxelocksmiths.com/#business","name":"Deluxe Locksmith","url":"https://deluxelocksmiths.com/","telephone":"(443) 545-2775","image":"https://deluxelocksmiths.com/assets/brand/og-image.jpg","logo":"https://deluxelocksmiths.com/assets/brand/logo.png","address":{"@type":"PostalAddress","streetAddress":"121 W Main St","addressLocality":"Elkton","addressRegion":"MD","postalCode":"21921","addressCountry":"US"},"geo":{"@type":"GeoCoordinates","latitude":39.6068,"longitude":-75.8333},"hasMap":"https://www.google.com/maps/search/?api=1&query=39.6068,-75.8333","openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Sunday","Monday","Tuesday","Wednesday","Thursday"],"opens":"07:00","closes":"22:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":["Friday"],"opens":"07:00","closes":"18:00"}],"areaServed":[{"@type":"AdministrativeArea","name":"Cecil County, MD"},{"@type":"AdministrativeArea","name":"Harford County, MD"},{"@type":"AdministrativeArea","name":"New Castle County, DE"},{"@type":"AdministrativeArea","name":"Kent County, DE"}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://deluxelocksmiths.com/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://deluxelocksmiths.com/blog/"},{"@type":"ListItem","position":3,"name":"Master Key Systems for Multi-Door Businesses","item":"https://deluxelocksmiths.com/blog/master-key-systems-what-multi-door-businesses-actually-need/"}]},{"@type":"Article","headline":"Master Key Systems for Multi-Door Businesses","description":"Building access control spending will hit $60.4B by 2035. Here is what a master key system actually solves for a multi-door business, and when it does not.","datePublished":"2026-09-17","dateModified":"2026-09-17","mainEntityOfPage":{"@type":"WebPage","@id":"https://deluxelocksmiths.com/blog/master-key-systems-what-multi-door-businesses-actually-need/"},"author":{"@type":"Organization","name":"Deluxe Locksmith","url":"https://deluxelocksmiths.com/"},"publisher":{"@id":"https://deluxelocksmiths.com/#business"},"image":"https://deluxelocksmiths.com/assets/blog/master-key-systems-what-multi-door-businesses-actually-need/hero.webp"},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can a master key system be added to locks I already have?","acceptedAnswer":{"@type":"Answer","text":"Often, yes. Many commercial cylinders can be re-pinned to fit a new tiered structure without replacing the entire lock body. That keeps the work focused on the pins and keying, not tearing out hardware that still works."}},{"@type":"Question","name":"What happens if a master key gets lost?","acceptedAnswer":{"@type":"Answer","text":"That's a real problem, because a lost master can open every door under it, not just one. The fix is usually rekeying every lock under that master to a fresh keying, which is why access to masters should stay limited to the smallest group of people who genuinely need it."}},{"@type":"Question","name":"How is a master key system different from an electronic access system?","acceptedAnswer":{"@type":"Answer","text":"A master key setup is entirely physical: no batteries, no software, no network dependency. An electronic system adds audit trails and remote deactivation, but depends on power and software to keep working."}},{"@type":"Question","name":"Do I need a master key system if I only have three employees?","acceptedAnswer":{"@type":"Answer","text":"Not necessarily. If all three need the same access and the building has one or two doors, a standard rekey after any departure usually covers the risk. A tiered structure earns its place once access actually needs to differ by role."}}]}]}</script>
 </head>
 <body>
@@ -128,7 +192,7 @@
           <p>Start by listing who needs access to what. Go role by role, not door by door. Once that list exists, the number of key levels usually becomes obvious. It&#39;s also worth asking whether every space needs its own physical key. An electronic point might make more sense for one or two high-traffic doors, while the rest stay on a traditional setup.</p>
 
           <h3>A Simple Way to Think About It</h3>
-          <table>
+          <table class="blog-table">
             <thead>
               <tr><th scope="col">Business situation</th><th scope="col">Likely fit</th></tr>
             </thead>
