@@ -884,6 +884,10 @@ We come to you for almost everything. Our address is a working shop, but in-stor
 
 Because an honest number is not possible in advance. What a job takes depends on the exact lock or vehicle, what has already been tried and where you are. Call, describe it, and we will tell you what is involved.
 
+#### Do you offer emergency locksmith service, and how fast can you get here?
+
+Yes. Lockouts, broken keys and urgent lock failures are part of our emergency locksmith work. We are not a 24-hour service: we are open Sunday through Thursday, 7:00 AM to 10:00 PM, and Friday, 7:00 AM to 6:00 PM, and closed Saturdays. When you call, a dispatcher sends the nearest available technician, who contacts you directly to confirm when they will arrive.
+
 #### When are you open?
 
 Sunday through Thursday, 7:00 AM to 10:00 PM. Friday, 7:00 AM to 6:00 PM. Closed Saturdays.
@@ -900,6 +904,10 @@ Rekey it. You have no way of knowing how many copies of that key exist or who ha
 
 Yes - commercial locksmith services covering master key systems, panic hardware, access control and storefront doors.
 
+#### Can you open a safe?
+
+Yes. Safe opening is one of our emergency locksmith services. Call and describe the safe, and we will tell you what is involved.
+
 #### Will opening my door damage it?
 
 Not when it is done properly. Non-destructive entry is the standard approach, and it is the reason to call a locksmith rather than force something.
@@ -907,6 +915,10 @@ Not when it is done properly. Non-destructive entry is the standard approach, an
 #### Can you rekey rather than replace my locks?
 
 Usually, yes - and it is normally the better answer. Rekeying changes who can open the door while keeping the hardware you already have.
+
+#### How do I know who is turning up at my home or car?
+
+Every job goes through our dispatcher, who sends one of our technicians. The technician calls ahead to confirm an arrival time before they set out, so you know who is coming and when. We are locally owned and operated, bonded and insured.
 
 #### How do I get in touch?
 
@@ -1214,7 +1226,7 @@ None of these are dramatic on their own. Together, they're why panic hardware th
 
 ### Why Professional Installation Matters
 
-Door and frame compatibility, correct hardware grade, and code-compliant mounting all have to line up for panic hardware to pass inspection. Grade 1 BHMA-rated hardware is generally what NFPA 101-compliant exits call for, and incorrect installation fails inspection even when the hardware itself is the right grade. That's the consensus among installers who work on this hardware regularly, echoed in a trade discussion among commercial door contractors weighing panic bar options for their own jobs.
+Door and frame compatibility, correct hardware grade, and code-compliant mounting all have to line up for panic hardware to pass inspection. NFPA 101 requires panic hardware to be listed to ANSI/BHMA A156.3, the exit device standard (Decoded: Which doors need panic hardware?, I Dig Hardware, Allegion, 2026), and the device still has to be installed from the manufacturer's template and tested so the latch releases from anywhere along the touchpad (How to Install a Panic Bar, National Lock Supply, accessed 2026). That's the consensus among installers who work on this hardware regularly, echoed in a trade discussion among commercial door contractors weighing panic bar options for their own jobs.
 
 This is one of the few pieces of commercial hardware where a good-enough install isn't actually good enough. The door either releases correctly under code-required conditions or it doesn't, and an inspector isn't grading on effort.
 
