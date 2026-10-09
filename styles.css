@@ -1240,6 +1240,10 @@ body.menu-open {
 .site-footer a { color: #9aa1a8; transition: color .16s; }
 .site-footer a:hover { color: var(--gold); }
 .site-footer address { font-style: normal; line-height: 1.75; }
+.site-footer .hours th { color: #d8dbdf; }
+.site-footer .hours td { color: #aeb4ba; }
+.site-footer .hours th, .site-footer .hours td { border-bottom-color: rgba(255,255,255,.12); }
+.site-footer .hours .closed { color: #ff8a80; }
 .footer-phone {
   display: inline-block;
   font-family: var(--display);
