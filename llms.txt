@@ -38,6 +38,10 @@
 - [Why storefront doors fail](https://deluxelocksmiths.com/blog/why-storefront-doors-fail/)
 - [You just bought a house. Rekey it before you unpack](https://deluxelocksmiths.com/blog/you-just-bought-a-house-rekey-it/)
 
+## Full content
+
+- [llms-full.txt](https://deluxelocksmiths.com/llms-full.txt): the full text of our service pages, About, FAQ and guides in one file
+
 ## Elsewhere
 
 - [Medium](https://medium.com/@deluxelocksmiths)
