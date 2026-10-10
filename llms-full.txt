@@ -1384,7 +1384,7 @@ This distinction is easy to miss because both types look nearly identical from a
 
 As of the 2024 IBC, a door required to have panic hardware can no longer have its electromagnetic lock released by a motion sensor alone. Release has to come from a switch built into the panic hardware itself, along with a loss-of-power release (What's Next? Approved changes to the 2024 IBC affecting electrified hardware, I Dig Hardware, Allegion, 2022). That rule directly affects any Cecil County business considering keyless entry on an exit door, and it's not something most badge-reader vendors bring up during the sales pitch.
 
-If you're weighing keyless entry for convenience or an audit trail, plan the panic hardware and the access control as one project, not two. A system installed in the wrong order, or by an installer who only handles one side of it, is where this mistake usually happens.
+If you're weighing keyless entry for convenience or an audit trail, plan the panic hardware and the access control as one project, not two. A system installed in the wrong order, or by an installer who only handles one side of it, is where this mistake usually happens. Our guide on whether keyless entry is worth it for a small business covers how to choose a credential and what to check before you buy.
 
 ### What We Commonly Find on Service Calls
 
