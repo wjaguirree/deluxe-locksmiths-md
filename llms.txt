@@ -7,7 +7,7 @@
 - Name: Deluxe Locksmith
 - Address: 121 W Main St, Elkton, MD 21921 (in-store visits are by appointment only)
 - Phone: (443) 545-2775
-- Hours: Sunday to Thursday 7am to 10pm, Friday 7am to 6pm, closed Saturday
+- Hours: Sunday to Thursday 7am to 10pm, Friday 7am to 3:30pm, closed Saturday
 - Service areas: Cecil County MD, Harford County MD, New Castle County DE, Kent County DE
 
 ## Services
