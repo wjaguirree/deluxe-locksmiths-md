@@ -1271,6 +1271,150 @@ Deluxe Locksmith is a locally owned and operated mobile locksmith serving Elkton
 
 ---
 
+## Key Fob Not Working? What to Check Before You Call
+
+Source: https://deluxelocksmiths.com/blog/key-fob-not-working-what-to-check-first/
+
+Key fob not working? Most of the time it's a dead battery, which is a two-minute fix in the driveway.
+
+By the Deluxe Locksmith team October 19, 2026
+
+Key fob not working? Most of the time it's a dead battery, which is a two-minute fix in the driveway. But if a fresh battery doesn't help, and your spare is no better, the fob has likely lost its pairing with the car, and that takes programming. Here's the order we'd check things in, so you know what you're dealing with before you pick up the phone.
+
+Skimming? Here's the gist. Use the hidden metal key to get in. Start the car the backup way, the one in your manual. Swap the battery, then try the spare. Spare works, main fob doesn't? The fob's the problem. Neither works? Look at the car. That's it, and you'll know if you need a battery, a re-pair or a new fob.
+
+### Key takeaways
+
+- A weak battery is the most common reason a fob goes quiet, and most take a common coin cell such as CR2032, CR2025, CR2016, CR2450, CR1616 or CR1620 (AAA).
+- Photograph the old battery before you pull it out. Many fobs have no clear polarity marking inside, according to AAA's December 2025 guide.
+- A 2019 Consumer Reports guide says a car built in the last five years will usually need the dealer for a new fob, while a car 10 years or older is more likely to take an aftermarket fob that a local locksmith can program.
+- A second working key or fob makes every one of these problems easier.
+
+### What is a key fob, and what does it actually do?
+
+A key fob is a small radio transmitter that talks to your car. Press a button and it sends a coded signal, and the doors lock or the trunk pops. Smart fobs do more. Keep one in your pocket and a push-button car knows it's near, so the engine starts with no metal key in sight.
+
+That code is what separates a fob from a plain metal key. The car has to be told which fobs to trust, and "programming" just means pairing the fob and the car again so they recognize each other. A dead battery doesn't usually break that pairing. A brand-new replacement fob always needs it.
+
+### What is the 4-step fob check?
+
+When a fob quits, four questions sort out the problem faster than anything else. We call them the 4-Step Fob Check. It takes a few minutes and needs no tools. Working through it before you call also tells you what to expect from a Deluxe Locksmith visit, which we explain after the table.
+
+- Can you still get in and start the car? Most fobs hide a small metal key, so use it on the driver's door. For starting, your owner's manual has the backup method. Many push-button cars have a spot, often on the steering column or in the console, where you hold the dead fob so the car can read it.
+- Is it the battery? Put in the exact type your fob uses. Nothing fixes more fobs.
+- Does the spare work? If it does, the car is fine and the main fob is the culprit. If the spare fails too, the trouble may be on the car's side.
+- Did it quit after a drop, some water or a battery swap? Any of those can break the pairing or damage the circuit board. That's when you're looking at reprogramming or a replacement.
+
+What you see: Range keeps shrinking, buttons need several presses. Most likely cause: Weak battery. Next move: Replace the battery.
+
+What you see: Fob dead, spare works. Most likely cause: Fob battery or a damaged fob. Next move: Battery first, then a replacement.
+
+What you see: Both fobs dead. Most likely cause: Car side or a shared problem. Next move: Call a locksmith before replacing anything.
+
+What you see: New battery, still nothing. Most likely cause: Lost pairing or damaged fob. Next move: Reprogramming or replacement.
+
+What you see: Fob works, door lock does not respond. Most likely cause: Car side. Next move: Have it diagnosed.
+
+What you see: Only the buttons fail, the car still starts. Most likely cause: Worn buttons or board. Next move: Replacement fob.
+
+When you call Deluxe Locksmith, a dispatcher routes the job to the nearest available technician, and that technician calls you to confirm the arrival time or set an appointment. Run Step 1 first, since it decides whether the car needs anyone to open it. If you can still get in and start the car, the technician may not need to open anything at all. If you can't, the technician works on-site and uses non-destructive entry first, so the car isn't drilled or forced. Fob programming is done at your vehicle, so there's no tow and no shop visit.
+
+### How do you replace a key fob battery?
+
+Look up your make and model before you open anything, because the wrong cell is an easy mistake. The usual suspects are CR2032, CR2025, CR2016, CR2450, CR1616 and CR1620 (AAA), and the number is printed right on the old battery.
+
+Then go slowly. Those plastic cases crack. Pry along the seam with a thumbnail or a small flathead screwdriver, and don't lean on it, since AAA warns that too much force can crack the case or damage the fob.
+
+Take a photo of the old battery before it comes out. Many fobs don't show which side faces up, and a phone picture beats guessing.
+
+Hold the new cell by its edges, keep your fingers off the circuit board, and test the fob before you snap the case shut for good. The old battery should go to a local electronics or battery recycling center, not the trash.
+
+Some vehicles want you to re-pair the fob after the battery has been out. Your owner's manual will say, and it usually lists the steps.
+
+### When does a key fob need programming?
+
+It comes up when you buy a replacement fob or add a spare. It also comes up when the car stops recognizing the fob you already have, which can follow a drop, water damage, or a battery that stayed out too long on certain models.
+
+That's why a fob from an online listing isn't always a simple swap. Before you buy, Consumer Reports says to find out whether you can program it yourself or whether a locksmith or dealer must. Then there's the two-key catch. Many owner-programmable systems want two working keys on hand to add a third, so the day you're down to one is the day it gets harder.
+
+Our key fob programming service (https://deluxelocksmiths.com/services/automotive-locksmith/key-fob-programming/) covers remotes and smart fobs, push-to-start systems included, done at your vehicle. A chipped key that also has to start the engine falls under transponder key programming (https://deluxelocksmiths.com/services/automotive-locksmith/transponder-key-programming/). And if you've lost your only key, read what to do when you lose your only car key (https://deluxelocksmiths.com/blog/what-to-do-when-you-lose-your-only-car-key/) first.
+
+### Dealer, locksmith or do it yourself?
+
+It depends mostly on the age and brand of the car. A 2019 Consumer Reports guide gives the clearest rule of thumb we've seen.
+
+- Car built within the last five years: Dealer is usually the best bet (Consumer Reports).
+- Car between 5 and 10 years old: Call a local locksmith or mechanic first.
+- Car 10 years or older: Aftermarket fob, programmed by a local locksmith, mechanic or yourself.
+- European brand: Often dealer only, because of digital key encryption.
+- You already have two working keys: Owner programming may be possible, check the manual.
+
+Shops differ in equipment, and some can't program push-button fobs at all. So call first. We'd rather tell you straight on the phone that your car needs the dealer than send a technician out for a job we can't finish. Give us the year, make and model and we'll say whether it's something we can do on site.
+
+Before you pay anyone, check whether your warranty, insurance policy, auto club membership or roadside plan covers a replacement. Consumer Reports suggests the same.
+
+### What should you have ready when you call?
+
+Have the year, make and model handy, and the trim if you can find it. Know if the car starts with a button or a key in the dash. Count what you've got left in working keys and fobs, because having none is a different job entirely. We come to you, so tell us where the car's parked. Oh, and think back a minute. Did it get dropped, wet, or a new battery just before it quit? Or did it simply stop?
+
+Our dispatcher sends the call to the nearest available technician, and that technician contacts you to confirm the arrival time or set an appointment. We're open Sunday to Thursday 7:00 AM to 10:00 PM and Friday 7:00 AM to 3:30 PM, and closed Saturday. Locked out of the car in the meantime? Our emergency locksmith service (https://deluxelocksmiths.com/services/emergency-locksmith/) handles that, with non-destructive entry first.
+
+Maryland regulates the trade, and it's worth knowing how. The state's consumer advisory says all locksmiths in Maryland are required to be licensed. It suggests asking any locksmith for their business street address, whether they carry insurance, and an estimate for the service call and the work. A proper invoice shows the total quoted cost, the type of lock serviced, the VIN for automobile work, and the locksmith's license number (Maryland Department of Labor, Maryland Locksmith Consumer Advisory: https://labor.maryland.gov/license/locksmiths/lockadvisory.shtml). Ask those questions of whoever you call.
+
+For drivers in Elkton (https://deluxelocksmiths.com/service-areas/elkton-md/) and across Cecil County, the technician comes to the car. No tow, no ride to a shop.
+
+### Frequently asked questions
+
+#### Why is my key fob not working after I changed the battery?
+
+Check the battery type first, then which way the cell sits. Some fobs need re-pairing with the car after a swap. Your manual says whether yours does. If none of that helps, the circuit board could be damaged, and that's a replacement.
+
+#### How do I know if the key fob or the car is the problem?
+
+Try your spare. If the spare works, the main fob is the problem. If neither fob works, the cause is more likely on the car side, and a locksmith should look at it before you buy a replacement.
+
+#### Can a locksmith program a key fob?
+
+Yes, for many vehicles. Older cars are the easiest. A 2019 Consumer Reports guide notes that simpler fobs can be programmed by a local mechanic, an automotive locksmith or the owner, while some newer and European models are limited to the dealer. Call with your year, make and model first.
+
+#### Can I program a key fob myself?
+
+Sometimes. Some brands allow owner programming, and many such systems need two working keys to add a third. Your owner's manual will have the steps if your car supports it.
+
+#### How long does key fob programming take?
+
+Not long. For dealer programming, a 2019 Consumer Reports guide puts it at about 15 to 30 minutes, and says the whole process rarely runs past an hour. Your car may differ.
+
+#### What is the quickest way to avoid a fob problem in the future?
+
+Keep a working spare. Replace the battery before the range starts shrinking. And order a second fob as soon as you're down to one.
+
+### Need help with a fob that won't respond?
+
+Run the 4-Step Fob Check first. If the battery and the spare don't solve it, call Deluxe Locksmith at (443) 545-2775 or request service online, and have your vehicle details ready. Pricing is quoted per job.
+
+### Sources (retrieved October 23, 2026)
+
+- AAA Club Alliance, Dead Key Fob? Here's How to Fix It Fast (https://cluballiance.aaa.com/the-extra-mile/advice/car/dead-key-fob-how-to-fix-it-fast), by Matt Hill, published December 26, 2025.
+- Consumer Reports, How to Replace Your Car's Key Fob (https://www.consumerreports.org/cars/car-maintenance/how-to-replace-your-car-key-fob-a4802255222/), by Mike Monticello, published May 4, 2019.
+- Maryland Department of Labor, Maryland Locksmith Consumer Advisory (https://labor.maryland.gov/license/locksmiths/lockadvisory.shtml). The page shows no publication date.
+
+Deluxe Locksmith is a locally owned and operated mobile locksmith serving Elkton, MD and the surrounding Cecil County, Harford County, New Castle County and Kent County area. Bonded and insured, with technicians dispatched directly to the job site. Read more on the About page (https://deluxelocksmiths.com/about/).
+
+### Where we do this
+
+We cover Northeast Maryland & Delaware. If you want the detail for your own town rather than the general advice above, start here:
+
+- Locksmith in Elkton, MD
+- Locksmith in North East, MD
+- Locksmith in Perryville, MD
+- Locksmith in Bel Air, MD
+- Locksmith in Newark, DE
+
+See all 38 towns we serve →
+
+---
+
 ## Locked out? Four things not to do, and one to do first
 
 Source: https://deluxelocksmiths.com/blog/locked-out-what-not-to-do/
