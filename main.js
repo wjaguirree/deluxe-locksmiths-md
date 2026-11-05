@@ -429,7 +429,7 @@
       if (statusEl) { statusEl.className = "form-status"; statusEl.textContent = ""; }
 
       var payload = {
-        _subject: "New service request — " + (WIZARD[answers.category] ? WIZARD[answers.category].label : "Website"),
+        _subject: "New service request: " + (WIZARD[answers.category] ? WIZARD[answers.category].label : "Website"),
         Category: WIZARD[answers.category] ? WIZARD[answers.category].label : "",
         Situation: answers.situation || "",
         Name: name.value.trim(),
